@@ -1,3 +1,4 @@
 # Web_scraping
 
-Few exercises of web pages scraping with using beautiful soup library and without. 
+Some web scraping exercises with and without the beautiful soup library.
+
